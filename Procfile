@@ -1,0 +1,1 @@
+web: gunicorn gettingstarted.wsgibasic-django-social-app
