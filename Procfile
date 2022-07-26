@@ -1,1 +1,1 @@
-web: gunicorn gettingstarted.wsgibasic-django-social-app
+web: gunicorn basic-django-social-app.wsgi
