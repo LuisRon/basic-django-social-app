@@ -2,7 +2,7 @@ from distutils.command.upload import upload
 from django.db import models
 from django.contrib.auth import get_user_model
 from django.forms import CharField
-from http import get
+#from http import get
 from datetime import datetime
 import uuid
 
