@@ -1,1 +1,1 @@
-web: gunicorn basic-django-social-app.wsgi
+web: gunicorn photo_social.wsgi
